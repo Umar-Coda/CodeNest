@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+.containers
+.dockerengine
+.editorconfig
+CodeNest.sln
+Directory.Build.props
+Directory.Packages.props
+docker-compose.dcproj
+docker-compose.override.yml
+docker-compose.yml
+launcSettings.json
